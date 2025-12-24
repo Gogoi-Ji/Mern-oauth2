@@ -1,0 +1,10 @@
+Vehicle Availability System
+mvn spring-boot:run
+http://localhost:8080/api/vehicles
+http://localhost:8080/index.html
+http://localhost:3000/
+
+Java products
+mvn spring-boot:run
+http://localhost:8081/products
+http://localhost:8081/index.html
